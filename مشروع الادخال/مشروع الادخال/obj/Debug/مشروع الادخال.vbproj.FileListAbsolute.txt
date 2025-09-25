@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الادخال\مشروع الادخال\bin\Debug\مشروع الادخال.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الادخال\مشروع الادخال\bin\Debug\مشروع الادخال.exe
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الادخال\مشروع الادخال\bin\Debug\مشروع الادخال.pdb
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الادخال\مشروع الادخال\bin\Debug\مشروع الادخال.xml
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الادخال\مشروع الادخال\obj\Debug\مشروع الادخال.vbprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الادخال\مشروع الادخال\obj\Debug\مشروع_الادخال.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الادخال\مشروع الادخال\obj\Debug\مشروع_الادخال.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الادخال\مشروع الادخال\obj\Debug\مشروع الادخال.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الادخال\مشروع الادخال\obj\Debug\مشروع الادخال.exe
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الادخال\مشروع الادخال\obj\Debug\مشروع الادخال.xml
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الادخال\مشروع الادخال\obj\Debug\مشروع الادخال.pdb
