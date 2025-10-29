@@ -1,0 +1,11 @@
+c:\users\pc\documents\visual studio 2015\Projects\Data_Time\Data_Time\bin\Debug\Data_Time.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\Data_Time\Data_Time\obj\Debug\Data_Time.vbprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\Data_Time\Data_Time\obj\Debug\Data_Time.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\Data_Time\Data_Time\obj\Debug\Data_Time.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\Data_Time\Data_Time\obj\Debug\Data_Time.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\Data_Time\Data_Time\bin\Debug\Data_Time.exe
+c:\users\pc\documents\visual studio 2015\Projects\Data_Time\Data_Time\bin\Debug\Data_Time.pdb
+c:\users\pc\documents\visual studio 2015\Projects\Data_Time\Data_Time\bin\Debug\Data_Time.xml
+c:\users\pc\documents\visual studio 2015\Projects\Data_Time\Data_Time\obj\Debug\Data_Time.exe
+c:\users\pc\documents\visual studio 2015\Projects\Data_Time\Data_Time\obj\Debug\Data_Time.xml
+c:\users\pc\documents\visual studio 2015\Projects\Data_Time\Data_Time\obj\Debug\Data_Time.pdb
